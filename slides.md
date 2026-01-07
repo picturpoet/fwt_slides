@@ -33,7 +33,7 @@ The vision is to head towards Super Express delivery that is less than one hour.
 
 <SlideProfile
   name="Raghuveer (RV)"
-  photoUrl="/rv_profile.jpg"
+  photoUrl="rv_profile.jpg"
   punchlineHTML='AI Generalist with specific expertise in <span class="font-bold text-blue-600 dark:text-blue-400">Product</span> and <span class="font-bold text-teal-600 dark:text-teal-400">Communication</span>'
   context="Responsible for product, UX, prototyping, business logic and communication."
   :expertise="['Startups', 'Marketplace Businesses', 'Applied AI']"
@@ -49,7 +49,7 @@ The vision is to head towards Super Express delivery that is less than one hour.
 
 <SlideProfile
   name="Dr. Akshay Zadgaonkar"
-  photoUrl="/akshay_profile.jpg"
+  photoUrl="akshay_profile.jpg"
   punchlineHTML='AI Engineer before the AI hype.<br>25+ years in tech.'
   context="Responsible for system design, ETL, data analysis, code and AI Model training"
   :expertise="['ERP', 'Core AI']"
@@ -516,24 +516,7 @@ class: text-center
   </ul>
 </div>
 
----
-layout: center
-class: text-center
----
 
-# Project Eagle Demo 🦅
-
-<div class="mt-16">
-  <a href="http://localhost:5173/login" target="_blank" class="inline-block px-12 py-6 bg-green-500 hover:bg-green-600 text-white text-2xl font-bold rounded-lg transition duration-300 no-underline shadow-lg hover:shadow-xl">
-    Launch Demo
-  </a>
-</div>
-
-<div class="mt-8 text-sm opacity-70">
-  Click to open the Project Eagle admin platform
-</div>
-
----
 layout: end
 ---
 
